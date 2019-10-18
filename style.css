@@ -7,8 +7,7 @@ body{
 	justify-content: center;
 
 }
-.owl-carousel{
-	display: flex;
+.owl-carousel{	
 	width: 70%;		 
 }
 .container{
@@ -33,6 +32,10 @@ body{
 	margin-right: 30px; 
 }
 
+.owl-dots{	
+	display: flex;		
+	margin-left: 75%;
+}
 
 
 
